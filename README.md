@@ -18,6 +18,7 @@ R-Ladies Riverside was founded in August 2019
 ### 2020
 #### January
 [R Markdown intro (or how to help your future self)](https://github.com/rladies/rladies-riverside/blob/master/Presentations/2020_02_23/rLadiesPresentation.Rmd)
+
 [The WondeRs of R Markdown](https://github.com/rladies/rladies-riverside/blob/master/Presentations/2020_02_23/rLadiesTutorial.Rmd)
 
 ### 2019
