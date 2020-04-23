@@ -16,6 +16,9 @@ R-Ladies Riverside was founded in August 2019
 ## R-Ladies Riverside Meet-up Presentations 
 
 ### 2020
+#### April
+[Shiny for research and teaching](https://github.com/rladies/rladies-riverside/blob/master/Presentations/2020_04_22/rladies_slides.pptx)
+
 #### January
 [R Markdown intro (or how to help your future self)](https://github.com/rladies/rladies-riverside/blob/master/Presentations/2020_02_23/rLadiesPresentation.Rmd)
 
