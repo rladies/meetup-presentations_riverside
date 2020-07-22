@@ -16,6 +16,9 @@ R-Ladies Riverside was founded in August 2019
 ## R-Ladies Riverside Meet-up Presentations 
 
 ### 2020
+#### July
+[Analyzing Genomics Data in R with Bioconductor](https://github.com/rladies/riverside/tree/master/Presentations/2020_07_22)
+
 #### April
 [Shiny for research and teaching](https://github.com/rladies/rladies-riverside/blob/master/Presentations/2020_04_22/rladies_slides.pptx)
 
