@@ -4,18 +4,27 @@
 
 R-Ladies Riverside was founded in August 2019
   
-  Co-Founders: Daniela Cassol (@dcassol), Marília P. Gaiarsa (@Magaiarsa), and Teresa Bohner (@tfbohner)
+- Co-Founders: Daniela Cassol (@dcassol), Marília P. Gaiarsa (@Magaiarsa), and Teresa Bohner (@tfbohner)
   
-  Send us an e-mail at *riverside@rladies.org* for further information!
+- Organizers: Daniela Cassol (@dcassol), Tessa Shates (@TShates), and Teresa Bohner (@tfbohner)
+
+Send us an e-mail at *riverside@rladies.org* for further information!
   
-  Keep updated about upcoming [events](https://www.meetup.com/rladies-riverside/)
+Keep updated about upcoming [events](https://www.meetup.com/rladies-riverside/)
   
-  Join us on twitter **(@RLadiesRiversd)**
+Join us on twitter **[RLadiesRiversd](https://twitter.com/RLadiesRiversd)**
   
 
 ## R-Ladies Riverside Meet-up Presentations 
 
+### 2021
+#### April
+[A Semi-Tidy Tuesday: Dataframe to simple maps](https://github.com/rladies/riverside/tree/master/Presentations/2021_04_13)
+
 ### 2020
+#### December
+[Analyzing Genomics Data in R with Bioconductor](https://github.com/rladies/riverside/tree/master/Presentations/2020_12_10#data-science-as-a-team-sport)
+
 #### July
 [Analyzing Genomics Data in R with Bioconductor](https://github.com/rladies/riverside/tree/master/Presentations/2020_07_22)
 
@@ -33,6 +42,3 @@ R-Ladies Riverside was founded in August 2019
 
 #### October
 [Welcome and Meet & Greet](https://github.com/rladies/rladies-riverside/blob/master/Presentations/20191001_firstMetting.pdf)
-
-
-
