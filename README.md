@@ -10,7 +10,7 @@ R-Ladies Riverside was founded in August 2019
 
 Send us an e-mail at *riverside@rladies.org* for further information!
   
-Keep updated about upcoming [events](https://www.meetup.com/rladies-riverside/)
+Keep updated about upcoming [events](https://rladies.github.io/riverside/)!
   
 Join us on twitter **[RLadiesRiversd](https://twitter.com/RLadiesRiversd)**
   
