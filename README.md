@@ -18,6 +18,9 @@ Join us on twitter **[RLadiesRiversd](https://twitter.com/RLadiesRiversd)**
 ## R-Ladies Riverside Meet-up Presentations 
 
 ### 2021
+#### September 
+[Intro to GitHub and R]()
+
 #### April
 [A Semi-Tidy Tuesday: Dataframe to simple maps](https://github.com/rladies/riverside/tree/master/Presentations/2021_04_13)
 
