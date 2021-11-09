@@ -6,7 +6,7 @@ R-Ladies Riverside was founded in August 2019
   
 - Co-Founders: Daniela Cassol (@dcassol), Marília P. Gaiarsa (@Magaiarsa), and Teresa Bohner (@tfbohner)
   
-- Organizers: Daniela Cassol (@dcassol), Tessa Shates (@TShates), and Teresa Bohner (@tfbohner)
+- Organizers: Daniela Cassol (@dcassol), Tessa Shates (@TShates), and Kaleigh Fisher 
 
 Send us an e-mail at *riverside@rladies.org* for further information!
   
@@ -18,8 +18,11 @@ Join us on twitter **[RLadiesRiversd](https://twitter.com/RLadiesRiversd)**
 ## R-Ladies Riverside Meet-up Presentations 
 
 ### 2021
+#### November 
+[How to Build Portfolio Website with GitHub Pages](https://rladies.github.io/riverside/events.html)
+
 #### September 
-[Intro to GitHub and R]()
+[Intro to GitHub and R](https://rladies.github.io/riverside/events.html)
 
 #### April
 [A Semi-Tidy Tuesday: Dataframe to simple maps](https://github.com/rladies/riverside/tree/master/Presentations/2021_04_13)
