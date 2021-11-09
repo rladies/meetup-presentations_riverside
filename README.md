@@ -6,7 +6,7 @@ R-Ladies Riverside was founded in August 2019
   
 - Co-Founders: Daniela Cassol (@dcassol), Marília P. Gaiarsa (@Magaiarsa), and Teresa Bohner (@tfbohner)
   
-- Organizers: Daniela Cassol (@dcassol), Tessa Shates (@TShates), and Kaleigh Fisher 
+- Organizers: Daniela Cassol (@dcassol), Tessa Shates (@TShates), and Kaleigh Fisher (@kalefish52)
 
 Send us an e-mail at *riverside@rladies.org* for further information!
   
